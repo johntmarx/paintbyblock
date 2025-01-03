@@ -15,14 +15,14 @@ This tool converts images into color-by-number worksheets using AI-powered subje
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/johntmarx/color-by-number.git
-cd color-by-number
+git clone https://github.com/johntmarx/paintbyblock.git
+cd paintbyblock
 ```
 
 2. Create and activate a virtual environment (recommended):
 ```bash
-conda create --name color-by-number python=3.12 -y
-conda activate color-by-number
+conda create --name paintbyblock python=3.12 -y
+conda activate paintbyblock
 ```
 
 3. Install required packages:
