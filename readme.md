@@ -73,6 +73,14 @@ Specify custom output paths:
 ```bash
 python color.py -i input.jpg --preview my_preview.png --worksheet my_worksheet.png
 ```
+## Streamlit Interface
+
+You can also interact with this through a Streamlit web interface. To run that, follow the installation instructions and then run:
+```bash
+streamlit run streamlit_paintblock.py
+```
+
+Then access the interface through: http://localhost:8501
 
 ## How It Works
 
